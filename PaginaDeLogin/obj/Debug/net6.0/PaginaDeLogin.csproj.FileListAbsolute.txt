@@ -1,0 +1,15 @@
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/bin/Debug/net6.0/PaginaDeLogin
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/bin/Debug/net6.0/PaginaDeLogin.deps.json
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/bin/Debug/net6.0/PaginaDeLogin.runtimeconfig.json
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/bin/Debug/net6.0/PaginaDeLogin.dll
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/bin/Debug/net6.0/PaginaDeLogin.pdb
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/PaginaDeLogin.csproj.AssemblyReference.cache
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/PaginaDeLogin.GeneratedMSBuildEditorConfig.editorconfig
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/PaginaDeLogin.AssemblyInfoInputs.cache
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/PaginaDeLogin.AssemblyInfo.cs
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/PaginaDeLogin.csproj.CoreCompileInputs.cache
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/PaginaDeLogin.dll
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/refint/PaginaDeLogin.dll
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/PaginaDeLogin.pdb
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/PaginaDeLogin.genruntimeconfig.cache
+/home/informatica/Documentos/dotnet/ProjetosDeEstudo/PaginaDeLogin/obj/Debug/net6.0/ref/PaginaDeLogin.dll
